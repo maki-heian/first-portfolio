@@ -1,3 +1,4 @@
+
 body{
     width: 600px;
     margin: 0 auto;
@@ -15,7 +16,8 @@ body{
     width: 100px;
     height: 50px;
     margin: auto;
-    background-color:#96C78C ;
+    background-color:#65BBE9 ;
+    color: #ffff;
     text-align: center;
     line-height: 51px;
 }
