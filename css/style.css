@@ -1,7 +1,8 @@
 html{
-    font-family: "ヒラギノ丸ゴ ProN";
-
+    font-family: "ヒラギノ丸ゴ Pro W4";
+/* フォントがおかしいので調整必要 */
 }
+
 body{
     width: 600px;
     margin: 0 auto;
@@ -79,4 +80,16 @@ body{
 
 .link:hover{
     color: aliceblue;
+}
+
+.page-fotter{
+ background-image:url(../img/okumono_kumo2523.png) ;
+ background-size: cover;
+
+}
+
+.info{
+    width: 100%;
+    max-width: 544px;
+    margin: auto;
 }
