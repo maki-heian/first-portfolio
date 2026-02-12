@@ -85,7 +85,7 @@ body{
 .page-fotter{
  background-image:url(../img/okumono_kumo2523.png) ;
  background-size: cover;
-margin-bottom: 3rem;
+
 }
 
 .info{
@@ -94,4 +94,5 @@ margin-bottom: 3rem;
     margin: auto;
     text-align: left;
 }
+
 
