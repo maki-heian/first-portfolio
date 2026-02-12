@@ -1,5 +1,5 @@
 html{
-    font-family: "ヒラギノ丸ゴ Pro W4";
+    font-family: "游ゴシック",sans-serif;
 /* フォントがおかしいので調整必要 */
 }
 
@@ -85,13 +85,12 @@ body{
 .page-fotter{
  background-image:url(../img/okumono_kumo2523.png) ;
  background-size: cover;
-
+margin-bottom: 3rem;
 }
 
 .info{
     width: 100%;
     max-width: 544px;
     margin: auto;
+    text-align: left;
 }
-
-
