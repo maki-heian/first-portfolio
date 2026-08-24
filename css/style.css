@@ -103,8 +103,10 @@ body{
     p{
         font-size: 20px;
     }
-    
-}
+
+    main-img{
+        width: 60%;
+    }
 
     
 }
