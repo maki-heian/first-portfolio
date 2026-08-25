@@ -98,7 +98,7 @@ body{
 
 @media screen and (max-width:600px) {
     body{
-        width: 80%;
+        margin: 0 auto;
     }
     p{
         font-size: 14px;
@@ -109,5 +109,6 @@ body{
     .main-img{
         width: 100%;
     }
+
 
 }
