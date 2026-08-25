@@ -101,17 +101,13 @@ body{
         width: 80%;
     }
     p{
-        font-size: 20px;
+        font-size: 14px;
     }
     h1{
-        font-size: 50px;
+        font-size: 24px;
     }
-    .main-img{
-        width: 80%;
-    }
-
-
     .main-img{
         width: 100%;
     }
+
 }
