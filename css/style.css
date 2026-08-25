@@ -103,6 +103,13 @@ body{
     p{
         font-size: 20px;
     }
+    h1{
+        font-size: 50px;
+    }
+    .main-img{
+        width: 80%;
+    }
+
 
     .main-img{
         width: 80%;
